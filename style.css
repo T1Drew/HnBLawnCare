@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+.home {
+    background: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.3)),url(gb1.png)no-repeat;
+    background-size: cover;
+    width: 100%;
+    padding: 180px 0;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+section.us img {
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+}
+
+
+
+section.us .card {
+    -webkit-box-shadow: 3px 2px 24px -6px rgba(0,0,0,0.75);
+    -moz-box-shadow: 3px 2px 24px -6px rgba(0,0,0,0.75);
+    box-shadow: 3px 2px 24px -6px rgba(0,0,0,0.75);
+}
+
+
+/*.form-input {
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.form-group input[type="text"] {
+    width: 250px;
+    padding: 12px 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
+.form-group input[type="email"] {
+    width: 250px;
+    padding: 12px 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
+.form-group textarea {
+    width: 250px;
+    padding: 12px 20px;
+    height: 80px;
+    resize: none;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}*/
+
+
+
+.contact {
+    background: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.3));
+    background-size: 100% 100%;
+}
